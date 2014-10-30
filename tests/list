@@ -625,3 +625,9 @@ dbus-comment.service text/x-systemd-unit xxx
 # D-Bus services
 dbus.service text/x-dbus-service
 dbus-comment.service text/x-dbus-service
+
+# 3D models and GCODEs
+binary.stl model/vnd.stl-binary
+ascii.stl model/vnd.stl-ascii
+binary.stl model/vnd.stl-ascii ox
+ascii.stl model/vnd.stl-binary ox
