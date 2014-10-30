@@ -477,3 +477,8 @@ COPYING.asc application/pgp-signature xoo
 test-public-key.asc application/pgp-keys xoo
 test-secret-key.skr application/pgp-keys ooo
 test-secret-key.asc application/pgp-keys xoo
+
+binary.stl application/x-stl-binary
+ascii.stl application/x-stl-ascii
+binary.stl application/x-stl-ascii ox
+ascii.stl application/x-stl-binary ox
