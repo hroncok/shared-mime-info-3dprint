@@ -478,8 +478,8 @@ test-public-key.asc application/pgp-keys xoo
 test-secret-key.skr application/pgp-keys ooo
 test-secret-key.asc application/pgp-keys xoo
 
-binary.stl application/x-stl-binary
-ascii.stl application/x-stl-ascii
-binary.stl application/x-stl-ascii ox
-ascii.stl application/x-stl-binary ox
+binary.stl model/stl-binary
+ascii.stl model/stl-ascii
+binary.stl model/stl-ascii ox
+ascii.stl model/stl-binary ox
 test.gcode application/x-gcode
