@@ -482,3 +482,4 @@ binary.stl application/x-stl-binary
 ascii.stl application/x-stl-ascii
 binary.stl application/x-stl-ascii ox
 ascii.stl application/x-stl-binary ox
+test.gcode application/x-gcode
