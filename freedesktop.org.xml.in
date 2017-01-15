@@ -6948,4 +6948,11 @@ command to generate the output files.
     <glob pattern="*.stl"/>
   </mime-type>
 
+  <mime-type type="application/x-gcode">
+    <_comment>G-code file</_comment>
+    <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-generic"/>
+    <glob pattern="*.gcode"/>
+  </mime-type>
+
 </mime-info>
