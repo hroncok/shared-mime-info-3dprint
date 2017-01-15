@@ -6298,15 +6298,19 @@ command to generate the output files.
   </mime-type>
 
   <!-- 3D models and GCODEs -->
-  <mime-type type="application/x-stl-binary">
+  <mime-type type="model/stl-binary">
     <_comment>STL 3D model (binary)</_comment>
+    <acronym>STL</acronym>
+    <expanded-acronym>STereoLithography</expanded-acronym>
     <sub-class-of type="application/octet-stream"/>
     <generic-icon name="binary"/>
     <glob pattern="*.stl"/>
   </mime-type>
 
-  <mime-type type="application/x-stl-ascii">
+  <mime-type type="model/stl-ascii">
     <_comment>STL 3D model (ASCII)</_comment>
+    <acronym>STL</acronym>
+    <expanded-acronym>STereoLithography</expanded-acronym>
     <sub-class-of type="text/plain"/>
     <generic-icon name="text-x-generic"/>
     <magic priority="50">
