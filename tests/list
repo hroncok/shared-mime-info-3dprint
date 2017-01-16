@@ -628,7 +628,7 @@ dbus-comment.service text/x-dbus-service
 
 # 3D models and GCODEs
 binary.stl model/vnd.stl-binary
-ascii.stl model/vnd.stl-ascii
-binary.stl model/vnd.stl-ascii ox
-ascii.stl model/vnd.stl-binary ox
-test.gcode application/x-gcode
+ascii.stl model/vnd.stl-ascii x
+binary.stl model/vnd.stl-ascii xxx
+ascii.stl model/vnd.stl-binary oxx
+test.gcode application/vnd.gcode ox
